@@ -1,0 +1,71 @@
+# Ignore Visual Studio temporary files, build results, and
+# project files that should not be included in source control.
+
+####################
+# ASP.NET          #
+####################
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+# Uncomment if you have nuget.exe that you do not want to commit
+# nuget.exe
+
+# Microsoft Visual Studio user-specific files
+.vscode/
+*.vcxproj.user
+*.vcxproj.filters
+*.psess
+*.pidb
+*.userprefs
+*.sqlite
+*.sdf
+*.dbmdl
+
+# Entity Framework model files
+*.edmx.sql
+*.edmx.diagram
+*.edmx
+*.tt
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS configuration
+.vs/
+.project/
+bin/
+obj/
+App_Data/
+
+# Resharper
+_ReSharper*/
+
+# SQL Server CE database files
+*.sdf
+*.mdf
+*.ldf
+
+# Coverage Results
+*.coverage
+*.coveragexml
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Test result
+TestResults/
+nunit-*.xml
+
+
+PlanetSurveillance/wwwroot/lib/
+PlanetSurveillance/wwwroot/*
