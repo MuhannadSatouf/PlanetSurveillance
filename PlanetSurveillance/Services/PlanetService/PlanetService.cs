@@ -1,9 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
-using PlanetSurveillance.Data.Models;
+﻿using PlanetSurveillance.Data.Models;
 using PlanetSurveillance.Data.Repositories.PlanetRepo;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace PlanetSurveillance.Services.PlanetService
 {

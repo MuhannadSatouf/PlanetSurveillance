@@ -1,10 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
-using PlanetSurveillance.Data.Models;
+﻿using PlanetSurveillance.Data.Models;
 using PlanetSurveillance.Data.Repositories.PersonRepo;
 using PlanetSurveillance.Services.PersonService;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 public class PersonService : IPersonService
 {
